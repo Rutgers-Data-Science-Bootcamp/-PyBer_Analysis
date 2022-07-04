@@ -1,5 +1,5 @@
 # PyBer Ride Sharing Analysis
-Analyzing and visualizing ridesharing data with Python Matplotlib, Numpy
+Analyzing and visualizing ridesharing data with Python Matplotlib, Pandas
 
 # Overview
 The purpose of this project is to perform exploratory analysis of Pyber ride sharing data and visualize the rideshare data for PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods
@@ -19,6 +19,5 @@ By reviewing the summary we can see that there are several key findings includin
     4. Rural cities have the highest average fare per ride and driver.
 
 # Summary
-Based on the analysis my business recommendations to Pyber are: Increasing the amount of drivers in Rural areas to ensure there are enough drivers to meet ride demand. Data for rural cities shows that the average fare per ride and average fare per driver is much higher than Suburban and urban cities.This can indicate that rural area based riders are taking trips over a longer distance. This can result in a majority of drivers being occupied with current trips and loss in potential revenue when there are peaks in business.
-
+Based on the analysis: Increasing the amount of drivers in Rural areas to ensure there are enough drivers to meet ride demand. Data for rural cities shows that the average fare per ride and average fare per driver is much higher than Suburban and urban cities.
 
