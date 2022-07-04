@@ -5,7 +5,9 @@ Analyzing and visualizing ridesharing data with Python Matplotlib, Numpy
 The purpose of this project is to perform exploratory analysis of Pyber ride sharing data and visualize the rideshare data for PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods
 
 # Results
-Data analysis and aggregation of PyBers ride sharing data, I have created a line chart of Total fares by city time from Jan to Apr as you can see in the screenshot below:
+Data analysis and aggregation of PyBers ride sharing data, I have created a statistical summary of ridesharing and line chart of Total fares by city type from Jan to Apr as you can see in the screenshots below:
+
+<img width="609" alt="Screen Shot 2022-07-04 at 12 28 54 AM" src="https://user-images.githubusercontent.com/65901034/177081702-c566319c-0eb0-4dc1-a676-ffd21afd9ba7.png">
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/65901034/177081510-20dede47-3b1a-482b-a254-d536ab424305.png)
 
